@@ -12,7 +12,7 @@
 <h5>
     Link para o desafio
     https://github.com/PicPay/picpay-desafio-backend<br/>
-    link do canal com solução inicial antes das implentações pessoais
+    link do canal com solução antes das implentações pessoais
     https://www.youtube.com/watch?v=QXunBiLq2SM&t=3904s
 </h5>
 
