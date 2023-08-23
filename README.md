@@ -1,4 +1,4 @@
-**## Desafio PicPay - Solução com Java, Spring, MySQL e Docker
+### Desafio PicPay - Solução com Java, Spring, MySQL e Docker
 <div style="sisplay: inline_block">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -25,4 +25,3 @@ A orquestração de contêineres Docker está permitindo a criação de ambiente
 
 Minha jornada no desafio da PicPay é uma oportunidade emocionante para aprimorar minhas habilidades e demonstrar minha capacidade de enfrentar desafios complexos com ferramentas relevantes do ecossistema de desenvolvimento atual. Estou comprometido em criar uma solução que exemplifique excelência técnica e criatividade.
 </h5>
-**
